@@ -2,6 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=latex
 
 KamayamaGame/
+tex/
 
 ### LaTeX ###
 ## Core latex/pdflatex auxiliary files:
