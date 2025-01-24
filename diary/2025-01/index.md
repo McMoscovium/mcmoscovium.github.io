@@ -1,18 +1,8 @@
-数式$aiueo$です
-
-数式 $aiueo$です
-
-数式$siueo$ です
-
-数式 $aiueo$ です
-
-数式 $ aiueo $ です
-
 # 2025/01/15
 - 面談の日程を取りつけた
 - 紙のノートを作るようにしようかな
 - Kashiwara-Schapiraと、Schapiraの講義ノートを読んだ。右随伴はlimitを保つことの証明を読んで終わった。こういうのを知っておかないと、ホモロジー代数の勉強にならない。
-<details><summary>- フルスタックWeb開発の4章を読んだ</summary>
+- <details><summary>フルスタックWeb開発の4章を読んだ</summary>
 
   - バックエンドとフロントエンドの2つのサーバーを立ち上げて、フロントエンドにアクセス→バックエンドで処理→フロントエンドでページ書き換え、の例を見た。
   - フロントエンドがバックエンドサーバーのURLを知るために、フロントエンドのnext.config.jsに書いてある。正確に言うと、URLとして解釈されるべき部分が「/api/:path」の形で書かれていたら、「(バックエンドのURL)/api/:path」に書き換えられるように設定されている。
@@ -37,7 +27,7 @@
 # 2025/01/20
 - Weibel homをExercise 2.7.2まで読んだ。「mapping coneがacyclic $\Leftrightarrow$ 擬同型（weak equivalence）」を使った気がする。
 # 2025/01/21
-<details><summary>- nlab「field(physics)」の1-Generalを読んだ。</summary>
+- <details><summary>nlab「field(physics)」の1-Generalを読んだ。</summary>
 
   - 歴史的に、電磁場の理論と重力場の理論が古典的場の理論と呼ばれるものである。
     - チャート（局所座標）を固定すると、電磁場は電場と磁場に分かれ、ベクトル場としてモデル化される。
@@ -68,11 +58,10 @@
   - chain proofの実装は少しばかり魔法のように見える。根拠を用意してequalityのchainを作るだけなんだけども。
   - judgmental equality（おそらくAgdaでいう=）とpropositional equality（おそらく、今回定義した≡）の違いが良くわかっていない。
 - Unicode文字を等幅で表示できるようにDejaVu Sans Monoフォントを追加。Agdaでunicode文字を多用するので追加した。
-<details>
-
-<summary>
-- Landsmanを読んだ。
-</summary>
+- <details>
+  <summary>
+    Landsmanを読んだ。
+  </summary>
 
   - 集合 $X$ 上のtransition probability $\tau\colon X\times X\to [0,1]$ と、それが定める $X$ の基底、またobservableとそのspectral resolutionの定義を見た。手はまだ動かしていない。
 
@@ -80,7 +69,7 @@
 
 # 2025/01/23
 
-<details>
+- <details>
   <summary>Landsmanを読んだ。</summary>
 
   - 昨日読んだtransition probabilityが定めるobserbable等の概念について有限集合に限って確かめた。無限集合の場合は和の収束について考えないといけないので後回しにする。
