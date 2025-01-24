@@ -103,3 +103,4 @@
 
 # 2025/01/24
 - 量子論の基礎の3.24.4では無限次元空間での微分を行っているが、これが実際にできることを確かめた。Lang, Real and Functional Analysisにほとんど書いてある。 $\frac{d}{dt}\left\langle\psi(t)|\varphi(t)\right\rangle=\left\langle\frac{d}{dt}\psi(t)\middle|\varphi(t)\right\rangle+\left\langle\psi(t)\middle|\frac{d}{dt}\varphi(t)\right\rangle$ であることは自力で確かめた。
+- 日記を個人ページに移動した。Github PagesはデフォでJekyllを使ってmarkdownをhtmlに変換して表示してくれるようになっているので、その利用方法を学んだ。mathjaxによる数式描画が上手くいかなかったがcssを抜いたら行けた。cssの追加は後々考える。
