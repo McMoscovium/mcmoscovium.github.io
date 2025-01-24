@@ -15,7 +15,7 @@
 
 # 2025/01/17
 - Weibelを読んだ。
-  - $\mathsf{Mod}$- $R$ におけるfiltered colimit functor $(\mathsf{Mod}$- $R)^I\to \mathsf{Mod}$- $R$は完全である。
+  - $ \mathsf{Mod} $ - $ R $ におけるfiltered colimit functor $(\mathsf{Mod}$- $R)^I\to \mathsf{Mod}$- $R$は完全である。
   - 一般のアーベル圏ではfiltered colimit関手は完全とは限らない。 $\mathsf{Ab}^\mathrm{op}$の場合に反例がみつかった。（こういうのをちゃんとノートにメモしておくべき？）
 - 先生と面談した。入学前にちょっとだけセミナーすることになった。勉強頑張ろうねという話になった。
 # 2025/01/18
