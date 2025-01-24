@@ -102,6 +102,7 @@
 </details>
 
 # 2025/01/24
+- バイトをした。ちょっと段取り悪かったせいで持ち場が終わるのが9:20になってしまった。もうちょっとイモ類とナスピーマンの陳列ルーティーンを考えないといけない。
 - 量子論の基礎の3.24.4では無限次元空間での微分を行っているが、これが実際にできることを確かめた。Lang, Real and Functional Analysisにほとんど書いてある。 $\frac{d}{dt}\left\langle\psi(t)|\varphi(t)\right\rangle=\left\langle\frac{d}{dt}\psi(t)\middle|\varphi(t)\right\rangle+\left\langle\psi(t)\middle|\frac{d}{dt}\varphi(t)\right\rangle$ であることは自力で確かめた。
 - 日記を個人ページに移動した。Github PagesはデフォでJekyllを使ってmarkdownをhtmlに変換して表示してくれるようになっているので、その利用方法を学んだ。mathjaxによる数式描画が上手くいかなかったがcssを抜いたら行けた。cssの追加は後々考える。
 - 量子論の基礎の3章まで読んだ。閉じた系の時間発展、すなわちシュレディンガー方程式を満たすこと、また、測定時に状態が受ける反作用、つまり射影仮説について学んだ。
