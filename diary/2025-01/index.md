@@ -74,8 +74,10 @@
   <summary>Landsmanを読んだ。</summary>
 
   - 昨日読んだtransition probabilityが定めるobserbable等の概念について有限集合に限って確かめた。無限集合の場合は和の収束について考えないといけないので後回しにする。
-  <details><summary>D.2(命題論理)の頭を読んだ。</summary>
 
+  - <details>
+    <summary>D.2(命題論理)の頭を読んだ。</summary>
+    
     - propositional logicでは、well-formed formulaeとpropositionsは一致する。
     - character set i.e. signature $\Sigma$ から再帰的に $\vee,\ \wedge,\ \to ,\ \neg$ を使って **proposition** i.e. well-formed formulaが作れる
     - この作り方からwell-formed formulae全体の集合 $B_\Sigma$ ができる
