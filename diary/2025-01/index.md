@@ -70,10 +70,11 @@
 
 # 2025/01/23
 
-<details><summary>Landsmanを読んだ。</summary>
+<details>
+  <summary>Landsmanを読んだ。</summary>
 
   - 昨日読んだtransition probabilityが定めるobserbable等の概念について有限集合に限って確かめた。無限集合の場合は和の収束について考えないといけないので後回しにする。
-  - <details><summary>D.2(命題論理)の頭を読んだ。</summary>
+  <details><summary>D.2(命題論理)の頭を読んだ。</summary>
 
     - propositional logicでは、well-formed formulaeとpropositionsは一致する。
     - character set i.e. signature $\Sigma$ から再帰的に $\vee,\ \wedge,\ \to ,\ \neg$ を使って **proposition** i.e. well-formed formulaが作れる
@@ -94,7 +95,7 @@
     - $\psi$ から$\varphi$ が演繹できるとき、 $\psi\vdash\varphi$ とかく。
     - $B_\Sigma$ 上の同値関係を、 $\psi \sim\varphi\Leftrightarrow \psi\vdash$ かつ $\varphi\vdash\psi$ であると定め、 $L_\Sigma:=B_\Sigma /{\sim}$とおく。これを、**Lindenbaum(-Tarski) algebra**と呼ぶ。
   - 1.4（古典力学の命題論理）を読んだ。が、なんかモチベーションが良くわからないので後半は読みとばした。
-</details>
+  </details>
 
 - 量子論の基礎の3.24まで読んだ。シュレディンガー方程式は一般のバナッハ空間における常微分方程式であるが、どれぐらい有限次元の場合と同じことができるかわからない。
 </details>
