@@ -2,7 +2,7 @@
 - 面談の日程を取りつけた
 - 紙のノートを作るようにしようかな
 - Kashiwara-Schapiraと、Schapiraの講義ノートを読んだ。右随伴はlimitを保つことの証明を読んで終わった。こういうのを知っておかないと、ホモロジー代数の勉強にならない。
-<details><summary>- フルスタックWeb開発の4章を読んだ</summary>
+- <details><summary>フルスタックWeb開発の4章を読んだ</summary>
 
   - バックエンドとフロントエンドの2つのサーバーを立ち上げて、フロントエンドにアクセス→バックエンドで処理→フロントエンドでページ書き換え、の例を見た。
   - フロントエンドがバックエンドサーバーのURLを知るために、フロントエンドのnext.config.jsに書いてある。正確に言うと、URLとして解釈されるべき部分が「/api/:path」の形で書かれていたら、「(バックエンドのURL)/api/:path」に書き換えられるように設定されている。
@@ -15,7 +15,7 @@
 
 # 2025/01/17
 - Weibelを読んだ。
-  - $\mathsf{Mod}$- $R$ におけるfiltered colimit functor $(\mathsf{Mod}$- $R)^I\to \mathsf{Mod}$- $R$は完全である。
+  - $ \mathsf{Mod} $ - $ R $ におけるfiltered colimit functor $(\mathsf{Mod}$- $R)^I\to \mathsf{Mod}$- $R$は完全である。
   - 一般のアーベル圏ではfiltered colimit関手は完全とは限らない。 $\mathsf{Ab}^\mathrm{op}$の場合に反例がみつかった。（こういうのをちゃんとノートにメモしておくべき？）
 - 先生と面談した。入学前にちょっとだけセミナーすることになった。勉強頑張ろうねという話になった。
 # 2025/01/18
@@ -27,7 +27,7 @@
 # 2025/01/20
 - Weibel homをExercise 2.7.2まで読んだ。「mapping coneがacyclic $\Leftrightarrow$ 擬同型（weak equivalence）」を使った気がする。
 # 2025/01/21
-<details><summary>- nlab「field(physics)」の1-Generalを読んだ。</summary>
+- <details><summary>nlab「field(physics)」の1-Generalを読んだ。</summary>
 
   - 歴史的に、電磁場の理論と重力場の理論が古典的場の理論と呼ばれるものである。
     - チャート（局所座標）を固定すると、電磁場は電場と磁場に分かれ、ベクトル場としてモデル化される。
@@ -58,11 +58,10 @@
   - chain proofの実装は少しばかり魔法のように見える。根拠を用意してequalityのchainを作るだけなんだけども。
   - judgmental equality（おそらくAgdaでいう=）とpropositional equality（おそらく、今回定義した≡）の違いが良くわかっていない。
 - Unicode文字を等幅で表示できるようにDejaVu Sans Monoフォントを追加。Agdaでunicode文字を多用するので追加した。
-<details>
-
-<summary>
-- Landsmanを読んだ。
-</summary>
+- <details>
+  <summary>
+    Landsmanを読んだ。
+  </summary>
 
   - 集合 $X$ 上のtransition probability $\tau\colon X\times X\to [0,1]$ と、それが定める $X$ の基底、またobservableとそのspectral resolutionの定義を見た。手はまだ動かしていない。
 
@@ -70,11 +69,14 @@
 
 # 2025/01/23
 
-<details><summary>Landsmanを読んだ。</summary>
+- <details>
+  <summary>Landsmanを読んだ。</summary>
 
   - 昨日読んだtransition probabilityが定めるobserbable等の概念について有限集合に限って確かめた。無限集合の場合は和の収束について考えないといけないので後回しにする。
-  - <details><summary>D.2(命題論理)の頭を読んだ。</summary>
 
+  - <details>
+    <summary>D.2(命題論理)の頭を読んだ。</summary>
+    
     - propositional logicでは、well-formed formulaeとpropositionsは一致する。
     - character set i.e. signature $\Sigma$ から再帰的に $\vee,\ \wedge,\ \to ,\ \neg$ を使って **proposition** i.e. well-formed formulaが作れる
     - この作り方からwell-formed formulae全体の集合 $B_\Sigma$ ができる
@@ -94,7 +96,7 @@
     - $\psi$ から$\varphi$ が演繹できるとき、 $\psi\vdash\varphi$ とかく。
     - $B_\Sigma$ 上の同値関係を、 $\psi \sim\varphi\Leftrightarrow \psi\vdash$ かつ $\varphi\vdash\psi$ であると定め、 $L_\Sigma:=B_\Sigma /{\sim}$とおく。これを、**Lindenbaum(-Tarski) algebra**と呼ぶ。
   - 1.4（古典力学の命題論理）を読んだ。が、なんかモチベーションが良くわからないので後半は読みとばした。
-</details>
+  </details>
 
 - 量子論の基礎の3.24まで読んだ。シュレディンガー方程式は一般のバナッハ空間における常微分方程式であるが、どれぐらい有限次元の場合と同じことができるかわからない。
 </details>
