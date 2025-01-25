@@ -113,4 +113,6 @@
 # 2025/01/25
 - 量子論の基礎の正準量子化の所を少し読んだ。系の時間発展はラグランジアン/ハミルトニアンの停留点になるという事実は知っているが、もう少し解析力学を知っていた方が良いと思ったので解析力学もちゃんと勉強することにする。
 - Weibelを読んだ。
-  - 2.7.7はright balanced functorの定義(Cartan - Eilenbergにもある)だが、$Hom(A\otimes B, C)$はright balancedでないと思う。
+  - 2.7.7はright balanced functorの定義(Cartan - Eilenbergにもある)だが、$\mathrm{Hom}(A\otimes B, C)$はright balancedでないと思う。
+      - Mathstack Exchangeにも同様の主張があった。$A$が射影的で、$\mathrm{Hom}(A\otimes B, -)$が完全でない例を作ればよいが、$A=\mathbb{Z}$、$B=\mathbb{Z}/2\mathbb{Z}$とおけばそのそのテンソル積は$\mathbb{Z}/2\mathbb{Z}$に等しく、これはアーベル群として射影的でない。よってこれをdomainとするHom関手は完全でない。
+  - 2.7.8 (TorのExternal prodtct)を見た。係数変更における積$(A\otimes R)\otimes_Z(A\otimes R)\to A\otimes_Z R$の拡張に見えるけど、なんにつかうん？
