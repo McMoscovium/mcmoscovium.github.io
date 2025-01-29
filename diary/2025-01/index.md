@@ -123,8 +123,17 @@
   - 「$M$が$A$-平坦$\Leftrightarrow A$の任意の有限生成イデアル$I$について、$I\otimes M\to R\otimes M\cong M$が単射」という命題を示そうとしたが、間に合わなかった
   - 証明はStacks Projectにある。これの直感が全くわかない。
 
-# 2025/01/26
+# 2025/01/27
 - バイトの後寝てしまいなにもできなかった...
 
-# 2025/01/27
+# 2025/01/28
 - Stacks Projectにある証明を読んだ。直感を教えてくれ
+
+# 2025/01/29
+- SchreiberのIntro to Homological Algebraの3.113あたりを読んだ。
+  - 3.114の証明にLazard's criterion必要なくね...（projectiveのcolimはprojectiveなので（間違ってる？））
+  - projの(filtered) colimがprojになるとはかぎらないのかもしれない。
+  - 環上の加群の圏に関しては、任意のオブジェクトのfree resolutionをとれるらしい（たしかに）。
+  - それならそのfree res.のcolimはflatになっていいね！
+- filtered colimit、ind-object、cofinal map(functor)あたりについてちゃんと学びたい（Kashiwara-Schapiraよめ）
+- (co)limをシステマチックに使えるようになるために、Kan拡張も学ぶべき(Kashiwara-Schapiraよめ)
