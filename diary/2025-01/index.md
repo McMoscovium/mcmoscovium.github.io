@@ -132,6 +132,7 @@
 # 2025/01/29
 - SchreiberのIntro to Homological Algebraの3.113あたりを読んだ。
   - 3.114の証明にLazard's criterion必要なくね...（projectiveのcolimはprojectiveなので（間違ってる？））
+    - proj.のcolimはprojになるとは限らないっぽい（簡単に証明できなかったので）。
   - projの(filtered) colimがprojになるとはかぎらないのかもしれない。
   - 環上の加群の圏に関しては、任意のオブジェクトのfree resolutionをとれるらしい（たしかに）。
   - それならそのfree res.のcolimはflatになっていいね！
