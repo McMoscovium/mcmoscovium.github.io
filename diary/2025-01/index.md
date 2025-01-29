@@ -116,3 +116,15 @@
   - 2.7.7はright balanced functorの定義(Cartan - Eilenbergにもある)だが、$\mathrm{Hom}(A\otimes B, C)$はright balancedでないと思う。
       - Mathstack Exchangeにも同様の主張があった。$A$が射影的で、$\mathrm{Hom}(A\otimes B, -)$が完全でない例を作ればよいが、$A=\mathbb{Z}$、$B=\mathbb{Z}/2\mathbb{Z}$とおけばそのそのテンソル積は$\mathbb{Z}/2\mathbb{Z}$に等しく、これはアーベル群として射影的でない。よってこれをdomainとするHom関手は完全でない。
   - 2.7.8 (TorのExternal prodtct)を見た。係数変更における積$(A\otimes R)\otimes_Z(A\otimes R)\to A\otimes_Z R$の拡張に見えるけど、なんにつかうん？
+
+# 2025/01/26
+- WeibelとSchreiber「Intro to Homological Alg...」を読んだ。
+  - 平坦加群$M$は$-\otimes M$-acyclicなので、平坦加群についてまとめようとした。
+  - 「$M$が$A$-平坦$\Leftrightarrow A$の任意の有限生成イデアル$I$について、$I\otimes M\to R\otimes M\cong M$が単射」という命題を示そうとしたが、間に合わなかった
+  - 証明はStacks Projectにある。これの直感が全くわかない。
+
+# 2025/01/26
+- バイトの後寝てしまいなにもできなかった...
+
+# 2025/01/27
+- Stacks Projectにある証明を読んだ。直感を教えてくれ
