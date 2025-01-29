@@ -138,3 +138,4 @@
   - それならそのfree res.のcolimはflatになっていいね！
 - filtered colimit、ind-object、cofinal map(functor)あたりについてちゃんと学びたい（Kashiwara-Schapiraよめ）
 - (co)limをシステマチックに使えるようになるために、Kan拡張も学ぶべき(Kashiwara-Schapiraよめ)
+- Landsmanの2章の頭を読んだ。ヒルベルト空間の無限テンソル積を知らず終わりになった。
