@@ -4,3 +4,4 @@
 
 # 2025/02/02
 - Schapiraのlecture note "Cat and Sheaves"の2.3を読んだ。filtered colimitとind-objectを早く読みたい。
+  - 2.5.1($\mathscr{C}$が$I$-completeなら任意の関手圏$\mathrm{Fct}(J,C)$も$I$-complete)を読んだ。というか証明した。バカ時間かかった（9ページ使った）。
