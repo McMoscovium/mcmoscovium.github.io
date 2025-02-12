@@ -37,4 +37,4 @@
 # 2025/02/12
 - 最近スーパーに届くジャガイモがあまりよくない...去年のこの時期もそうだった記憶がある。
 - Riehlの4.1節を読み終えた。
-  - 随伴$F:\mathsf{C}\rightleftarrows\mathsf{D}:G$があったとき、コンマ圏の同型$F\downarrow\mathsf{D}\cong \mathsf{C}\downarrow G$であって、$\mathsf{C}\times\mathsf{D}$への忘却関手と交換するものが一意にある。
+  - 随伴$F:\mathsf{C}\rightleftarrows\mathsf{D}:G$があったとき、コンマ圏の同型$F\downarrow\mathsf{D}\cong \mathsf{C}\downarrow G$であって、$\mathsf{C}\times\mathsf{D}$への忘却関手と交換するものが自然にある。
