@@ -32,3 +32,9 @@
   - 導来関手の計算方法
   - Kunnethの定理と普遍係数定理のsectralsequence proof
   - 誘導表現と余誘導表現と、それを扱うための随伴関手の話
+ 
+
+# 2025/02/12
+- 最近スーパーに届くジャガイモがあまりよくない...去年のこの時期もそうだった記憶がある。
+- Riehlの4.1節を読み終えた。
+  - 随伴$F:\mathsf{C}\rightleftarrows\mathsf{D}:G$があったとき、コンマ圏の同型$F\downarrow\mathsf{D}\cong \mathsf{C}\downarrow G$であって、$\mathsf{C}\times\mathsf{D}$への忘却関手と交換するものが一意にある。
