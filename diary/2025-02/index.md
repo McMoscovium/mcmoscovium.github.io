@@ -33,15 +33,18 @@
   - Kunnethの定理と普遍係数定理のsectralsequence proof
   - 誘導表現と余誘導表現と、それを扱うための随伴関手の話
  
+# 2025/02/12
+- 最近スーパーに届くジャガイモがあまりよくない...去年のこの時期もそうだった記憶がある。
+- Riehlの4.1節を読み終えた。
+  - 随伴$F:\mathsf{C}\rightleftarrows\mathsf{D}:G$があったとき、コンマ圏の同型$F\downarrow\mathsf{D}\cong \mathsf{C}\downarrow G$であって、$\mathsf{C}\times\mathsf{D}$への忘却関手と交換するものが自然にある。
+ 
 # 2025/02/13
 - Riehlのcontextの4.2, 4.3を読んだ。
   - adjunctionのunit、counitを用いた定義。こちらの方がわかりやすい。string diagramの等式にも直接変換できる。
   - preorderの間の随伴の定めるGalois connection。代数多様体と多項式環のイデアルの対応、syntax-semantics duality。
   - 関手$F\colon\mathsf{C}\to\mathsf{D}$と$d\in\mathsf D$に対し、関手$\mathsf{D}(F-,d)$（表現可能と仮定）のrepresentativeを対応さすと$F$の右随伴関手$G\colon \mathsf D\to\mathsf C$に一意に延長できる。
   - 次回以降、これの多変数化をみる。
- 
 
-# 2025/02/12
-- 最近スーパーに届くジャガイモがあまりよくない...去年のこの時期もそうだった記憶がある。
-- Riehlの4.1節を読み終えた。
-  - 随伴$F:\mathsf{C}\rightleftarrows\mathsf{D}:G$があったとき、コンマ圏の同型$F\downarrow\mathsf{D}\cong \mathsf{C}\downarrow G$であって、$\mathsf{C}\times\mathsf{D}$への忘却関手と交換するものが自然にある。
+# 2025/02/22
+- フルスタックの5章まで実装した。フロントエンドのページをMaterial UIを用いてかっこよく知り方法を学んだ。
+  - かっこいいとは思わない。
