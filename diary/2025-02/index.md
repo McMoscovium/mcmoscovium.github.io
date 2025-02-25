@@ -52,3 +52,8 @@
 # 2025/02/25
 - Milnor-Stasheffのsmooth manifoldの定義とLeeのそれが同値であることを示した。
   - Whitney embedding thmより、多様体はある$R^N$に埋め込めるが、そのやり方は無限にある。Milnor-Stasheffはその埋め込み方まで指定したものと思っておけば十分。
+- Grassmann多様体がコンパクトハウスドルフであることを示した。
+  - まず、$\mathrm{Gr}_n(\mathbb R^{n+k})$はStiefel多様体$V_n(\mathbb R^{n+k})$（$\mathbb{R}^{n+k}^n$の開部分多様体）の商空間である。
+  - orthonormal frame全体のなす部分空間$V^0_n(\mathbb R^{n+k})$の商空間でもある。
+  - Hausdorff性は$w\in \mathbb R^{m+n}$に対し定まる関数$\rho_w\colon\mathrm{Gr}_n(\mathbb{R}^{n+k})\to \mathbb R,\ X\mapsto (wとXの距離)$が連続であることから従う。連続性は商写像の普遍性を用いて示す。
+  - コンパクト性は$V^0_n(\mathbb R^{n+k})$が$(\mathbb{R}^{m+n})^n$の有界閉集合であることから従う。
