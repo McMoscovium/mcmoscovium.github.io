@@ -14,3 +14,9 @@
   - simplex categoryの射がepi-monic 分解をもつことの証明をラフに行った
   - simplicial objectに必要十分なデータ（objectの族、適当な等式を満たすface/degeneracy operators）を示そうとしたが、すぐにできなかった
   - simplex categoryの生成元と関係式によるpresentationが必要だと思った。明日CWMを読む。
+
+# 2025/03/12
+- CWMのfree categoryのとことquotient categoryのとこを読んで、genelatorとrelationによるcategory presentationを勉強した。
+- Weibelに、semisimplicial objectのleft Kan extensionの構成がちゃんとできているか確かめる演習（8.1.5）があったが、時間がかかりすぎるので飛ばした。場合分けをたくさんやって時間を描ければ解けると思う。
+  - これは、もうちょいアブストラクトにかっこよくできませんかね？
+  - left Kan extensionをcoendで書く公式があるらしい。
